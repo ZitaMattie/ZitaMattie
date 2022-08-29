@@ -11,7 +11,10 @@
 - 🌱 I’m currently learning ... Wordpress
 - 📫 How to reach me: ...zita.mattie@gmail.com
 - ⚡ Fun fact: ...I love to code!!!.
-##
+- 
+## **My Skills**:
+<a href="https://imgur.com/m28hJRc"><img src="https://i.imgur.com/m28hJRc.png" </a>
+
 
 ## **You can contact me on**:
 <P align="left" stlyle="margin-left:20px">
