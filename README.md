@@ -1,8 +1,6 @@
 <p>
- <a href="https://imgur.com/xWraocw"><img src="https://i.imgur.com/xWraocw.png" title="source: imgur.com" /></a>
-
+<img src="https://i.imgur.com/xWraocw.png" />
  </p>
-<a href="https://imgur.com/xWraocw"><img src="https://i.imgur.com/xWraocw.png" title="source: imgur.com" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zita Mattie</h1>
 <h3 align="center">I'm a programmer and web developer.</h3>
