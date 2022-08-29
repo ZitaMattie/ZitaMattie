@@ -14,8 +14,8 @@
 
 ## **You can contact me on**:
 <P align="left" stlyle="margin-left:20px">
-<a href="https://imgur.com/90c54aR"><img "style="width:40px;"src="https://i.imgur.com/90c54aR.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/Dldf474"><img "style="width:40px;"src="https://i.imgur.com/Dldf474.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/90c54aR"><img style="width:40px;"src="https://i.imgur.com/90c54aR.png" 
+<a href="https://imgur.com/Dldf474"><img style="width:40px;"src="https://i.imgur.com/Dldf474.png" title="source: imgur.com" /></a>
  
  
 </P>
