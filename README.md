@@ -18,8 +18,9 @@
 <a href="https://imgur.com/SQQIxri"><img style="width:40px;" src="https://i.imgur.com/SQQIxri.png"/></a>
 <a href="https://imgur.com/C0ULm1B"><img style="width:40px;" src="https://i.imgur.com/C0ULm1B.png"/></a>
 <a href="https://imgur.com/m28hJRc"><img style="width:40px;" src="https://i.imgur.com/m28hJRc.png"/></a>
+<a href="https://imgur.com/jHZ7skg"><img style="width:40px;" src="https://i.imgur.com/jHZ7skg.png"/></a>
 
-## **You can contact me on**:
+## **Contact me on**:
 <P align="left" stlyle="margin-left:20px">
 <a href="https://imgur.com/90c54aR"><img style="width:40px;"src="https://i.imgur.com/90c54aR.png" 
 <a href="https://imgur.com/Dldf474"><img style="width:40px;"src="https://i.imgur.com/Dldf474.png" 
