@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...I love to code!!!.
 - 
 ## **My Skills**:
-<a href="https://imgur.com/m28hJRc"><img src="https://i.imgur.com/m28hJRc.png" </a>
+<a href="https://imgur.com/m28hJRc"><img style="width:40px;"src="https://i.imgur.com/m28hJRc.png" </a>
 
 
 ## **You can contact me on**:
