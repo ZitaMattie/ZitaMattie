@@ -5,5 +5,5 @@
 ## 🙋‍♂️ **About Me**
 - 🔭 I’m currently working as ...a web developer
 - 🌱 I’m currently learning ... Wordpress
-- 📫 How to reach me: ...08140216522
+- 📫 How to reach me: ...zita.mattie@gmail.com
 - ⚡ Fun fact: ...I love to code!!!.
