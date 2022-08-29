@@ -6,4 +6,4 @@
 - 🔭 I’m currently working as ...a web developer
 - 🌱 I’m currently learning ... Wordpress
 - 📫 How to reach me: ...08140216522
-- ⚡ Fun fact: ...I love to code!!
+- ⚡ Fun fact: ...I love to code!!!.
