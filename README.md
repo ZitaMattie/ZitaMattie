@@ -1,7 +1,8 @@
 <p>
 <img src="https://i.imgur.com/1Hwhoe0.png" width"100"
+ </p>
 <a href="https://imgur.com/xWraocw"><img src="https://i.imgur.com/xWraocw.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/mli4u0b"><img src="https://i.imgur.com/mli4u0b.png" /></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zita Mattie</h1>
 <h3 align="center">I'm a programmer and web developer.</h3>
 </p>
