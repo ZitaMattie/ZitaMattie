@@ -1,4 +1,4 @@
-[Imgur](https://i.imgur.com/mli4u0b.png)
+<a href="https://imgur.com/mli4u0b"><img src="https://i.imgur.com/mli4u0b.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/8a3sWVL"><img src="https://i.imgur.com/8a3sWVL.png" title="source: imgur.com" /></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zita Mattie</h1>
 <h3 align="center">I'm a programmer and web developer.</h3>
