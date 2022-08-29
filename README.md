@@ -15,7 +15,7 @@
 ## **My Skills**:
 <a href="https://imgur.com/m28hJRc"><img style="width:40px;" src="https://i.imgur.com/m28hJRc.png"/></a>
 <a href="https://imgur.com/LI61eJP"><img style="width:40px;" src="https://i.imgur.com/LI61eJP.png"/></a>
-<a href="https://imgur.com/SQQIxri"><img style="width:40px;"src="https://i.imgur.com/SQQIxri.png"/></a>
+<a href="https://imgur.com/SQQIxri"><img style="width:40px;" src="https://i.imgur.com/SQQIxri.png"/></a>
 
 ## **You can contact me on**:
 <P align="left" stlyle="margin-left:20px">
