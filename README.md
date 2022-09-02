@@ -18,9 +18,21 @@
 <a href="https://imgur.com/SQQIxri"><img style="width:40px;" src="https://i.imgur.com/SQQIxri.png"/></a>
 <a href="https://imgur.com/jHZ7skg"><img style="width:40px;" src="https://i.imgur.com/jHZ7skg.png"/></a>
 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZitaMattie&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZitaMattie's github stats" />
+|------------- |
+
 ## **Contact me on**:
 <P align="left" stlyle="margin-left:20px">
 <a href="https://imgur.com/90c54aR"><img style="width:40px;"src="https://i.imgur.com/90c54aR.png" 
 <a href="https://imgur.com/Dldf474"><img style="width:40px;"src="https://i.imgur.com/Dldf474.png" 
  
 </P>
+ 
+ 
+### ❤ Views and Followers
+<p align="left" style="margin-left: 50px">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ZitaMattie">
+</a>
+<a><img src="https://img.shields.io/github/followers/ZitaMattie?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
