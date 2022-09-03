@@ -21,9 +21,9 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZitaMattie&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZitaMattie's github stats" />
 |------------- |
 
-## **Contact me on**:
+## **Connect with me on**:
 <P align="left" stlyle="margin-left:20px">
-<a href="https://imgur.com/90c54aR"><img style="width:40px;"src="https://i.imgur.com/90c54aR.png" 
+<a href="https://imgur.com/90c54aR"><img style="width:40px;"src="https://i.imgur.com/90c54aR.png"https://twitter.com/ZitaMattie?t=gi1wXUXISzM4PEfrU1EC9Q&s=09 
 <a href="https://imgur.com/Dldf474"><img style="width:40px;"src="https://i.imgur.com/Dldf474.png" 
  
 </P>
