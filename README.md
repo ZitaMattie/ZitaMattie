@@ -23,7 +23,7 @@
 
 ## **Connect with me on**:
 <P align="left" stlyle="margin-left:20px">
-<a href="https://api.whatsapp.com/send?phone=08140216522"><img src="https://i.imgur.com/O9nHZTb.png" title="source: imgur.com" /></a>
+<a href="https://api.whatsapp.com/send?phone=08140216522"><img style="width:40px;"src="https://i.imgur.com/O9nHZTb.png" title="source: imgur.com" /></a>
 <a href="https://www.instagram.com/ama_zita2"><img style="width:40px;"src="https://i.imgur.com/AMPGtIB.png" title="source: imgur.com" /></a>
 <a href="https://twitter.com/ZitaMattie"><img style="width:40px;"src="https://i.imgur.com/wp3MwYj.png" title="source: imgur.com" /></a>
  
