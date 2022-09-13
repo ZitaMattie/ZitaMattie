@@ -23,7 +23,7 @@
 
 ## **Connect with me on**:
 <P align="left" stlyle="margin-left:20px">
-<a href="https://www.instagram.com/ama_zita2//imgur.com/AMPGtIB"><img src="https://i.imgur.com/AMPGtIB.png" title="source: imgur.com" /></a>
+<a href="https://www.instagram.com/ama_zita2><img src="https://i.imgur.com/AMPGtIB.png" title="source: imgur.com" /></a>
 <a href="https://twitter.com/ZitaMattie"><img src="https://i.imgur.com/wp3MwYj.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/90c54aR"><img style="width:40px;"src="https://i.imgur.com/90c54aR.png"https://twitter.com/ZitaMattie?t=gi1wXUXISzM4PEfrU1EC9Q&s=09 
 <a href="https://imgur.com/Dldf474"><img style="width:40px;"src="https://i.imgur.com/Dldf474.png" 
