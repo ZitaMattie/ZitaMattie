@@ -13,10 +13,12 @@
 - ⚡ Fun fact: ...I love to code!!!.
 
 ## **My Skills**:
-<a href="https://imgur.com/PhpTggx"><img style="width:40px;" src="https://i.imgur.com/PhpTggx.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/NOXOz3I"><img style="width:40px;" src="https://i.imgur.com/NOXOz3I.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/PhpTggx"><img style="width:40px;" src="https://i.imgur.com/PhpTggx.png"/></a>
+<a href="https://imgur.com/NOXOz3I"><img style="width:40px;" src="https://i.imgur.com/NOXOz3I.png"/></a>
 <a href="https://imgur.com/SQQIxri"><img style="width:40px;" src="https://i.imgur.com/SQQIxri.png"/></a>
-<a href="https://imgur.com/jHZ7skg"><img style="width:40px;" src="https://i.imgur.com/jHZ7skg.png"/></a>
+<a href="https://imgur.com/4ZHEdPt"><img style="width:40px;" src="https://i.imgur.com/4ZHEdPt.png"/></a>
+<a href="https://imgur.com/C3icDXd"><img style="width:40px;" src="https://i.imgur.com/C3icDXd.png"/></a>
+
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZitaMattie&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZitaMattie's github stats" />
 |------------- |
